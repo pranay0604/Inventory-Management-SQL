@@ -54,10 +54,3 @@ Tracks inventory movements (purchases or sales).
 - ✅ Joined tables to retrieve detailed inventory information
 
 ---
-
-## 🔍 Sample SQL Queries
-
-### Insert a new product:
-```sql
-INSERT INTO Products (name, description, price, quantity)
-VALUES ('Wireless Mouse', 'Ergonomic design with USB receiver', 599.99, 100);
